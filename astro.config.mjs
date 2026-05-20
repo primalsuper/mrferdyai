@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://aimrferdy.net",
+	site: "https://ferdyai.pages.dev",
 	output: "static",
 	trailingSlash: "always",
 	integrations: [mdx(), sitemap()],
